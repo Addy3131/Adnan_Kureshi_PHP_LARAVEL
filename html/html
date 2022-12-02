@@ -1,0 +1,147 @@
+<html>
+
+<head>
+    <p>Welcome To Land of Heavan </p>
+    <style>
+        table,
+        tr,
+        td,
+        th {
+            border: 1px solid black;
+        }
+        
+        th,
+        td {
+            padding: 10px;
+        }
+        
+        table {
+            border-collapse: collapse;
+        }
+        
+        #td1 {
+            text-align: center;
+        }
+        
+        #td2 {
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+
+<body>
+    <form>
+        <table style="width:100%">
+
+            <tr>
+                <th colspan="8">Search Bar</th>
+            </tr>
+
+            <tr>
+
+
+                <th>Id</th>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Mail</th>
+                <th>Number</th>
+                <th>City</th>
+                <th width="5">Edit</th>
+                <th width="5">Delete</th>
+            </tr>
+            <tr>
+                <th>1</th>
+                <td>Jatin</td>
+                <td>Vasant vihar, ahmedabad</td>
+                <td>ab@gmail.com</td>
+                <td>123456789</td>
+                <td>Ahmedabad</td>
+                <td id="td1">
+                    <img src="1159633.png" alt="Edit" height="20px">
+                </td>
+                <td id="td1"> <img src="3221803.png" alt="Edit" height="20px"></td>
+            </tr>
+            <tr>
+                <th>1</th>
+                <td>Jatin</td>
+                <td>Vasant vihar, ahmedabad</td>
+                <td>ab@gmail.com</td>
+                <td>123456789</td>
+                <td>Ahmedabad</td>
+                <td id="td1">
+                    <img src="1159633.png" alt="Edit" height="20px">
+                </td>
+                <td id="td1"> <img src="3221803.png" alt="Edit" height="20px"></td>
+            </tr>
+            <tr>
+                <th>1</th>
+                <td>Jatin</td>
+                <td>Vasant vihar, ahmedabad</td>
+                <td>ab@gmail.com</td>
+                <td>123456789</td>
+                <td>Ahmedabad</td>
+                <td id="td1">
+                    <img src="1159633.png" alt="Edit" height="20px">
+                </td>
+                <td id="td1"> <img src="3221803.png" alt="Edit" height="20px"></td>
+            </tr>
+            <tr>
+                <th>1</th>
+                <td>Jatin</td>
+                <td>Vasant vihar, ahmedabad</td>
+                <td>ab@gmail.com</td>
+                <td>123456789</td>
+                <td>Ahmedabad</td>
+                <td id="td1">
+                    <img src="1159633.png" alt="Edit" height="20px">
+                </td>
+                <td id="td1"> <img src="3221803.png" alt="Edit" height="20px"></td>
+            </tr>
+            <tr>
+                <th>1</th>
+                <td>Jatin</td>
+                <td>Vasant vihar, ahmedabad</td>
+                <td>ab@gmail.com</td>
+                <td>123456789</td>
+                <td>Ahmedabad</td>
+                <td id="td1">
+                    <img src="1159633.png" alt="Edit" height="20px">
+                </td>
+                <td id="td1"> <img src="3221803.png" alt="Edit" height="20px"></td>
+            </tr>
+            <tr>
+                <th>1</th>
+                <td>Jatin</td>
+                <td>Vasant vihar, ahmedabad</td>
+                <td>ab@gmail.com</td>
+                <td>123456789</td>
+                <td>Ahmedabad</td>
+                <td id="td1">
+                    <img src="1159633.png" alt="Edit" height="20px">
+                </td>
+                <td id="td1"> <img src="3221803.png" alt="Edit" height="20px"></td>
+            </tr>
+            <tr>
+                <td id="td1">
+                    <select>
+                        <option>5</option>
+                        <option>4</option>
+                        <option>3</option>
+                        <option>2</option>
+                        <option>1</option>
+                    </select>
+                </td>
+                <td colspan="5">
+                </td>
+                <td>
+                    <input type="submit" value="[-">
+                    <input type="submit" value="-]"> 5
+                    <input type="submit" value="-]">
+                    <input type="submit" value="-]">
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+
+</html>
